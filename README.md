@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @AliAbbasO
-- 👀 I’m interested in coding backends with Python
-- 🌱 I’m currently learning C/C++
-- 💞️ I’m looking to collaborate on big brain projects
+- 🌱 I’m looking to collaborate on big brain projects
 - 📫 You can reach me via email at alioonwala@gmail.com
 
 <!---
